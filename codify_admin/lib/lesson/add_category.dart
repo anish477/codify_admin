@@ -81,7 +81,8 @@ class _AddCategoryScreenState extends State<AddCategoryScreen> {
                   }
                 },
                 child: const Text("Save Category"),
-              )
+              ),
+              Text("Delete Caegory"),
             ],
           ),
         ),
